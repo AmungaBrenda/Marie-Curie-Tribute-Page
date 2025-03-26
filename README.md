@@ -1,4 +1,4 @@
-# Marie-Curie-TributePage
+
 # Marie Curie Tribute Page
 
 ## Project Description
